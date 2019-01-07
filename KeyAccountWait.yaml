@@ -1,0 +1,16 @@
+---
+threshold: 2
+keys:
+- key: EOS6qiF84rDueuGuRYjJe6HwHN9hGPAUetpGGSVgBZp25zr34xcQ9
+  weight: 1
+  permission: active
+waits:
+- wait_sec: 60
+  weight: 1
+  permission: active
+accounts:
+- permission:
+    actor: msigexample2
+    permission: active
+  weight: 1
+---
