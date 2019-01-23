@@ -1,10 +1,12 @@
 ---
 threshold: 2
 keys:
-- key: EOS6qiF84rDueuGuRYjJe6HwHN9hGPAUetpGGSVgBZp25zr34xcQ9
+- key: EOS6qiF84rDueuGuRYjJe6HwHN9hGPAUetpGGSVgBZp25zr34xcQ9 
   weight: 1
   permission: active
 - key: EOS7WXh1FtKTnbg3GE9GWJX9KKqMxHzra7anCWaRFBJ46mj3oVtep
   weight: 1
   permission: active
 ---
+
+// Remember to ensure that they keys are listed in alpha-numerical order
